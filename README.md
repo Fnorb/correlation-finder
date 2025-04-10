@@ -19,6 +19,8 @@ A lightweight Flutter app to keep track of simple tabular data with custom colum
 - [ ] Improve the project structure (split into more files).
 - [ ] Add inline comments for better code readability.
 - [ ] Add an **import** function to load CSV data.
+- [ ] Add custom icons, title, description, etc.
+- [ ] Improve responsiveness of header / increase min width of columns.
 
 ## 💡 Note
 
